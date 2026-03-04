@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Julissa👋
+Systems Engineering student building strong foundations in algorithms, data structures, and database systems.
+I’m currently exploring graph algorithms and data science fundamentals through applied Python projects.
+I’m especially interested in efficiency, structured thinking, and data-driven problem solving.
 
-<!--
-**julisolval/julisolval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
+- Graph algorithms (BFS, Dijkstra)
+- Applied algorithmic projects in Python
+- Data science fundamentals
+- Strengthening core computer science concepts
 
-Here are some ideas to get you started:
+## Selected Projects
+- Binary Search – Voter lookup simulation
+- University Task Sorter – QuickSort applied to academic task management
+- Custom Hash Table – Python keyword validator (separate chaining implementation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+Continuously turning core algorithms into small real-world applications to better understand how systems work under the hood.
+
