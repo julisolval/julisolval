@@ -13,6 +13,7 @@ I’m especially interested in efficiency, structured thinking, and data-driven 
 - Binary Search – Voter lookup simulation
 - University Task Sorter – QuickSort applied to academic task management
 - Custom Hash Table – Python keyword validator (separate chaining implementation)
+- Social Network Friend Recommender – BFS applied to mutual friend detection, simulating "People You May Know"
 
 ## What I'm Working On
 Continuously turning core algorithms into small real-world applications to better understand how systems work under the hood.
