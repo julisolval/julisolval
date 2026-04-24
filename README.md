@@ -11,10 +11,10 @@ I’m especially interested in efficiency, structured thinking, and data-driven 
 
 ## Selected Projects
 - [Dijkstra-CampusLagunilla-UNA-CR](https://github.com/julisolval/Dijkstra-CampusLagunilla-UNA-CR) — Shortest path finder for a real university campus, simulating how Waze and Google Maps work under the hood
-- Binary Search – Voter lookup simulation
-- University Task Sorter – QuickSort applied to academic task management
-- Custom Hash Table – Python keyword validator (separate chaining implementation)
-- Social Network Friend Recommender – BFS applied to mutual friend detection, simulating "People You May Know"
+- [social-network-friend-recommender-bfs](https://github.com/julisolval/social-network-friend-recommender-bfs) — BFS applied to mutual friend detection, simulating "People You May Know"
+- [python-keyword-validator-hashtable](https://github.com/julisolval/python-keyword-validator-hashtable) — Python keyword validator using a custom hash table with separate chaining
+- [university-task-sorter-quicksort](https://github.com/julisolval/university-task-sorter-quicksort) — QuickSort applied to academic task management
+- [binary-search-voter-lookup](https://github.com/julisolval/binary-search-voter-lookup) — Binary search applied to voter lookup simulation
 
 ## What I'm Working On
 Continuously turning core algorithms into small real-world applications to better understand how systems work under the hood.
