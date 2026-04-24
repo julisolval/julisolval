@@ -10,6 +10,7 @@ I’m especially interested in efficiency, structured thinking, and data-driven 
 - Strengthening core computer science concepts
 
 ## Selected Projects
+- Dijkstra CampusLagunilla UNA, CR — Shortest path finder for a real university campus, simulating how Waze and Google Maps work under the hood
 - Binary Search – Voter lookup simulation
 - University Task Sorter – QuickSort applied to academic task management
 - Custom Hash Table – Python keyword validator (separate chaining implementation)
